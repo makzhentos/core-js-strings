@@ -134,6 +134,8 @@ function repeatString(/* str, times */) {
   throw new Error('Not implemented');
 }
 
+test
+
 /**
  * Remove the first occurrence of a substring from a string.
  *
